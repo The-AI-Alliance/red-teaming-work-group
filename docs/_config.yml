@@ -16,7 +16,7 @@
 title: Red Teaming Work Group
 email: contact@thealliance.ai
 description: >- # this means to ignore newlines until "baseurl:"
-  The website for the AI Alliance project, Red Teaming Work Group.
+  The website for the AI Alliance Red Teaming Work Group.
 baseurl: "/red-teaming-work-group" # the subpath of your site.
 url: "https://the-ai-alliance.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -70,7 +70,7 @@ aux_links:
     - "https://thealliance.ai"
 
 nav_external_links:
-  - title: The AI Alliance repo for Red Teaming Work Group"
+  - title: The AI Alliance Red Teaming Work Group"
     url: "https://github.com/The-AI-Alliance/red-teaming-work-group"
     hide_icon: false
 
