@@ -17,7 +17,7 @@ We welcome your contributions to our work. Visit the project's [GitHub repo](htt
 
 # Joining the Work Group
 
-If you are interested in participating in our work, first check out the work group's [FA2: Trust and Safety](https://thealliance.ai/focus-areas/trust-and-safety){:target="ai-alliance-wg"} home page. Then complete the form on the Alliance's [Become a Collaborator](https://thealliance.ai/become-a-collaborator){:target="aia-website"} page. Mention your interest in red teaming in the _Message_ box and check any of the other topic boxes that look interesting. 
+If you are interested in participating in our work, first check out the [Trust and Safety](https://thealliance.ai/focus-areas/trust-and-safety){:target="ai-alliance-wg"} home page. Then complete the form on the Alliance's [Become a Collaborator](https://thealliance.ai/become-a-collaborator){:target="aia-website"} page. Mention your interest in red teaming in the _Message_ box and check any of the other topic boxes that look interesting. 
 
 # Making Smaller Contributions
 
