@@ -1,10 +1,10 @@
-# README for MICROSITE_TITLE
+# README for Red Teaming Work Group
 
-[Published Documentation](https://the-ai-alliance.github.io/REPO_NAME/)
+[Published Documentation](https://the-ai-alliance.github.io/red-teaming-work-group/)
 
-This repo contains the code and documentation for the AI Alliance: MICROSITE_TITLE.
+This repo contains the code and documentation for the AI Alliance: Red Teaming Work Group.
 
-See the [repo README](https://the-ai-alliance.github.io/REPO_NAME/) for additional details about this project.
+See the [repo README](https://the-ai-alliance.github.io/red-teaming-work-group/) for additional details about this project.
 
 TODO - Describe this project
 
