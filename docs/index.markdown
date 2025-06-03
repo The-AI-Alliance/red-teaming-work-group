@@ -7,9 +7,6 @@ has_children: false
 
 # Red Teaming Work Group
 
-[GitHub Repo](https://github.com/The-AI-Alliance/red-teaming-work-group){:target="repo" .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 .no-glyph}
-[The AI Alliance](https://thealliance.ai){:target="ai-alliance" .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 .no-glyph} 
-
 | **Authors**     | [Trust and Safety](https://thealliance.ai/focus-areas/trust-and-safety){:target="ai-alliance-wg"} (See the [Contributors]({{site.baseurl}}/contributing/#contributors)) |
 | **Last Update** | V0.1.0, 2025-05-05 |
 
