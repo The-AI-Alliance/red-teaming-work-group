@@ -4,12 +4,14 @@ title: Contributing
 nav_order: 90
 ---
 
+<!--
 # Contributors
 
 The following people have contributed to this work group:
 
 * Dean Wampler, IBM Research
 * Others - coming soon.
+-->
 
 # How to Contribute to this Project
 
