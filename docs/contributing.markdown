@@ -3,7 +3,6 @@ layout: default
 title: Contributing
 nav_order: 90
 ---
-
 <!--
 # Contributors
 
