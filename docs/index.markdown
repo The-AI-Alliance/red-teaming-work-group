@@ -14,9 +14,12 @@ has_children: false
 
 Welcome to the **The AI Alliance**: **Red Teaming Work Group**. We collaborate on datasets, workshops, whitepapers, and other resources for red teaming AI systems for better security and safety. 
 
+<!--
 Please join us! See our [contributing]({{site.baseurl}}/contributing) page for details.
+-->
 
-> **TODO:** This is a work-in-progress website for the Red Teaming Work Group.
+> **NOTE:** This work group will officially kick off in September 2025 after the Summer holidays. However, feel free to [reach out now]({{site.baseurl}}/contributing) if you want to be involved.
+
 
 ### Version History
 
